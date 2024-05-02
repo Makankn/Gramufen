@@ -1,6 +1,6 @@
 # About
 
-Code and implmetations for "GraMuFeN: Graph-based Multi-modal Fake News Detection in Social Media".
+Code and Implementations for "GraMuFeN: Graph-based Multi-modal Fake News Detection in Social Media".
 
 This paper is Currently under review at **Social Network Analysis and Mining.**
 
