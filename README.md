@@ -5,4 +5,4 @@ Code and Implementations for "GraMuFeN: Graph-based Multi-modal Fake News Detect
 This paper has been accepted for publication at **Social Network Analysis and Mining.**
 
 
-The repository will get updated by new information after the review process.
+The repository will get updated by new information after the publication process.
