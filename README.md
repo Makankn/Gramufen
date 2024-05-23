@@ -2,7 +2,7 @@
 
 This repository contains code and implementations for the paper **"GraMuFeN: Graph-based Multi-modal Fake News Detection in Social Media"** published in **Social Network Analysis and Mining**.
 
-**Link to Paper:** [GraMuFeN Paper](https://link.springer.com/article/10.1007/s13278-024-01267-0)
+**Link to Paper:** [here](https://link.springer.com/article/10.1007/s13278-024-01267-0)
 
 ## Citation
 
